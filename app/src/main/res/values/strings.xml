@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">JobSchedulerSample</string>
+
+    <string name="lbl_schedule_job">Schedule Job</string>
+    <string name="lbl_cancel_job">Cancel Job</string>
+
+    <string-array name="app_modules">
+        <item>Job Scheduler</item>
+        <item>Foreground service</item>
+        <item>WorkManager</item>
+    </string-array>
+
+    <string name="lbl_fs_start">Start Service</string>
+    <string name="lbl_fs_stop">Stop Service</string>
+    <string name="start_working">Start Working</string>
+</resources>
